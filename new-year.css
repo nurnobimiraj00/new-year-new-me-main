@@ -307,3 +307,8 @@
     border: 0;
 
 }
+.last{
+    text-align: center;
+    color: #494747;
+    background: #000;
+}
